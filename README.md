@@ -1,1 +1,1 @@
-projeto feito para aprender a criar uma pasta com repositorio dentro feito atraves do git bash
+projeto feito para aprender a criar uma pasta com um repositorio dentro atraves do git bash
